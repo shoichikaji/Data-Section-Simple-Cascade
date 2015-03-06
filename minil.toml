@@ -1,0 +1,6 @@
+name = "Data-Section-Simple-Cascade"
+# badges = ["travis"]
+authority="cpan:SKAJI"
+
+module_maker="ModuleBuildTiny"
+
